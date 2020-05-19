@@ -6,8 +6,6 @@ webhook_url:
 sections:
 - type: heading
   label: FAQ
-- type: heading
-  label: Plasma Data
 - type: document
   path: plasmadata
   label: Plasma Data
