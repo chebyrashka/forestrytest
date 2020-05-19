@@ -7,8 +7,6 @@ sections:
 - type: heading
   label: FAQ
 - type: heading
-  label: Pages
-- type: heading
   label: Plasma Data
 - type: document
   path: plasmadata
