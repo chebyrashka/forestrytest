@@ -4,15 +4,14 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: document
-  path: plasmadata
-  label: Plasma Data
-  match: "**/*"
 - type: heading
   label: FAQ
 - type: heading
   label: Pages
 - type: heading
+  label: Plasma Data
+- type: document
+  path: plasmadata
   label: Plasma Data
 upload_dir: uploads
 public_path: "/uploads"
